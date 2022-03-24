@@ -1,0 +1,6 @@
+{
+    "chromeWebSecurity":false,
+    "basUrl":"https://cloud.xara.com/?doc=J3DaQyiOmD",
+    "defaultCommandTimeout":40000,
+    "execTimeout":40000
+}
